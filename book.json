@@ -53,7 +53,7 @@
   ],
   "pluginsConfig": {
     "insert-logo": {
-      "url": "http://img5.imgtn.bdimg.com/it/u=165670367,2479347840&fm=26&gp=0.jpg",
+      "url": "https://raw.githubusercontent.com/niulinguo/lingo_book/master/images/logo.png",
       "style": "background: none; max-height: 30px; min-height: 30px"
     },
     "code": {
@@ -92,8 +92,8 @@
       "modify_format": "YYYY-MM-DD HH:mm:ss"
     },
     "donate": {
-      "wechat": "微信收款的二维码URL",
-      "alipay": "支付宝收款的二维码URL",
+      "wechat": "https://raw.githubusercontent.com/niulinguo/lingo_book/master/images/wechat_pay.png",
+      "alipay": "https://raw.githubusercontent.com/niulinguo/lingo_book/master/images/ali_pay.jpeg",
       "title": "请我喝杯咖啡吧",
       "button": "赏",
       "alipayText": "支付宝打赏",
