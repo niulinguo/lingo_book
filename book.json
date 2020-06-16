@@ -1,0 +1,110 @@
+{
+  "root": "./docs",
+  "title": "《Lingo Book》",
+  "author": "Lingo.Niu",
+  "description": "记录 Lingo.Niu 的学习历程",
+  "language": "zh-hans",
+  "links": {
+    "sidebar": {
+      "Github": "https://github.com/niulinguo"
+    }
+  },
+  "styles": {
+    "website": "styles/website.css",
+    "ebook": "styles/ebook.css",
+    "pdf": "styles/pdf.css",
+    "mobi": "styles/mobi.css",
+    "epub": "styles/epub.css"
+  },
+  "plugins": [
+    "-search",
+    "back-to-top-button",
+    "expandable-chapters-small",
+    "insert-logo",
+    "chapter-fold",
+    "expandable-chapters",
+    "code",
+    "copy-code-button",
+    "todo",
+    "-lunr",
+    "-search",
+    "search-pro",
+    "advanced-emoji",
+    "github",
+    "emphasize",
+    "splitter",
+    "-sharing",
+    "sharing-plus",
+    "tbfed-pagefooter",
+    "page-treeview",
+    "simple-page-toc",
+    "page-toc-button",
+    "donate",
+    "alerts",
+    "flexible-alerts",
+    "pageview-count",
+    "auto-scroll-table",
+    "popup",
+    "lightbox",
+    "click-reveal",
+    "custom-favicon",
+    "accordion",
+    "hide-element"
+  ],
+  "pluginsConfig": {
+    "insert-logo": {
+      "url": "http://img5.imgtn.bdimg.com/it/u=165670367,2479347840&fm=26&gp=0.jpg",
+      "style": "background: none; max-height: 30px; min-height: 30px"
+    },
+    "code": {
+      "copyButtons": true
+    },
+    "github": {
+      "url": "https://github.com/niulinguo"
+    },
+    "sharing": {
+      "douban": false,
+      "facebook": false,
+      "google": true,
+      "pocket": false,
+      "qq": false,
+      "qzone": true,
+      "twitter": false,
+      "weibo": true,
+      "all": [
+        "douban",
+        "facebook",
+        "google",
+        "instapaper",
+        "linkedin",
+        "twitter",
+        "weibo",
+        "messenger",
+        "qq",
+        "qzone",
+        "viber",
+        "whatsapp"
+      ]
+    },
+    "tbfed-pagefooter": {
+      "copyright": "Copyright &copy www.niulinguo.com 2020",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "donate": {
+      "wechat": "微信收款的二维码URL",
+      "alipay": "支付宝收款的二维码URL",
+      "title": "请我喝杯咖啡吧",
+      "button": "赏",
+      "alipayText": "支付宝打赏",
+      "wechatText": "微信打赏"
+    },
+    "favicon": "http://img5.imgtn.bdimg.com/it/u=165670367,2479347840&fm=26&gp=0.jpg",
+    "hide-element": {
+      "elements": [
+        ".gitbook-link",
+        ".treeview__container-title"
+      ]
+    }
+  }
+}
