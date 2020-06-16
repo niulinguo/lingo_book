@@ -12,8 +12,6 @@ GitBook 可以帮助你写 API 文档或者写自己的博客，使用 markdown 
 sudo npm install gitbook-cli -g
 ```
 
-
-
 安装完成后，新建一个项目文件夹 MyGitBook, 使用命令初始化 GitBook。
 
 ```text
@@ -39,7 +37,7 @@ gitbook init
 gitbook serve
 ```
 
-浏览器打开 `http://localhost:4000` 浏览
+浏览器打开 [`http://localhost:4000`](http://localhost:4000) 浏览
 
 ## 安装插件
 
